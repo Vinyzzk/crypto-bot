@@ -1,0 +1,5 @@
+discord.py
+requests
+pythonpancakes
+pycoingecko
+datetime
